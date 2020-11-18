@@ -42,3 +42,12 @@ code:before,
 code:after {
   content: '\`';
 }
+
+.attribution {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  margin-bottom: 20px;
+}
